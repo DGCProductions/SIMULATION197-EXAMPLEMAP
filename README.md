@@ -1,0 +1,2 @@
+# SIMULATION197-EXAMPLEMAP
+The assets for the SIMULATION-197 map.
